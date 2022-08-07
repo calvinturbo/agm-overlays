@@ -28,6 +28,7 @@
   ],
   "angularCompilerOptions": {
     "skipMetadataEmit" : false,
-    "skipTemplateCodegen" : true
+    "skipTemplateCodegen" : true,
+    "compilationMode": "partial"
   }
 }
